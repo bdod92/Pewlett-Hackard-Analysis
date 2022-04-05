@@ -17,4 +17,6 @@ The purpose of this analysis is to predict the workforce attrition in older empl
 
 ## Summary
 1. To prepare for the incoming silver tsunami, the data suggests 72,458 new employees will need to be hired.
-2. Considering that there are only 1549 mentorship qualified employees, it is unlikely that they will be able to mentor all of the backfill hires. It would be better to widen the mentorship parameters for now until more employees have been trained up (or aged enough) to mentor.
+2. Considering that there are only 1549 mentorship qualified employees, it is unlikely that they will be able to mentor all of the backfill hires. 
+3. It would be better to widen the mentorship parameters for now until more employees have been trained up (or aged enough) to mentor.
+4. To reduce the impact of the silver tsunami, efforts should be made to improve retention such as allowing beer on site.
