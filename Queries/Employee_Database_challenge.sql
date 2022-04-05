@@ -33,6 +33,7 @@ ORDER BY count DESC;
 
 -- create table that aggregates mentorship ability based on age and
 -- if they are currently employed. Ordered by employee number
+
 SELECT DISTINCT ON (em.emp_no) 
 	em.emp_no, 
 	em.first_name, 
@@ -41,7 +42,7 @@ SELECT DISTINCT ON (em.emp_no)
 	de.from_date,
 	de.to_date,
 	titles.title
-INTO mentorship_aligibility
+INTO mentorship_eligibility
 FROM employees AS em
 INNER JOIN dept_emp AS de
 	ON (em.emp_no = de.emp_no)
